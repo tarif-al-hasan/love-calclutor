@@ -37,3 +37,5 @@ calcBtn.addEventListener("click", () => {
     loveCalc();
   }
 });
+
+console.log('Tarif Al Hasan');
